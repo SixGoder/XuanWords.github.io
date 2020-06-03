@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta lang="zh-CN">
+		<meta name="邢轩" content="None">
+		<title>20200604的单词给爷好好背</title>
+	</head>
+	
+	<body>
+		<header style="text-align:center">
+			<strong>2020-06-04</strong>
+		</header>
+		
+		<nav>
+			<p></p>
+			<p></p>
+			<p></p>
+			<ul>
+				<li>亲属关系： mother-妈妈； father-爸爸； grandmother / grandma-奶奶； grandpa / grandfather-爷爷； uncle-叔叔； aunt-阿姨； son-儿子； daughter-女儿</li>
+				<li>外貌描写： tall-高的； short-矮的； fat-胖的； thin-瘦的； beautiful-美丽的； beauty-美女； slim-苗条的</li>
+				<li>食物（food）: rice-米饭； noodles-面条；  dumplings-饺子；</li>
+        <li>水果（fruit）：apple-苹果； orange-橙子； peach-桃子（这也是想屁吃的由来）； pear-梨； strawberry-草莓；</li>
+				<li>蔬菜（vegetables）：carrot-胡萝卜； potato-土豆；</li>
+			</ul>
+		</nav>
+		
+		<p></p>
+		<p></p>
+		
+		<p>今日歌曲推荐:--------无名之辈</p>
+		<audio controls="controls" loop="loop">
+			<source src="https://m701.music.126.net/20200603160258/5e39fa35ec96b0d85bd17706c0477fa1/jdymusic/obj/w5zDlMODwrDDiGjCn8Ky/1941678831/94f7/c04c/95d7/50d273a01c63d1ed974eaeb6bd9bcbaf.mp3" type="audio/mp3">
+			<p>你的浏览器不支持Html5音频，请联系邢轩处理。</p>
+		</audio>
+		
+		
+		
+		<footer>
+			<p><a href="https://sixgoder.github.io/XuanWords.github.io/">返回主页</a></p>
+			<p>@最终解释权归邢轩所有</p>
+			<address>
+				<p>Page written by <a href="https://www.zhihu.com/people/xing-xuan-44-94">邢轩</a>,Man,22,河南</p>
+			</address>
+		</footer>
+	</body>
+</html>
